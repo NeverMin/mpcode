@@ -3,6 +3,8 @@
 #### 介绍
 小程序代码仓库
 
+20230712 wxeb18f25a9024f6d8 考研政治1000题
+
 20230712 wxbc25a7df24ae0e6a apple store 官方在线商店
 
 20230710 wx56d2d91fcbcfcedf 智慧考题宝
